@@ -1,4 +1,4 @@
 a=25
-b=20
+b=45
 c=55
-print(a+b+c)
+print(a*b*c)
